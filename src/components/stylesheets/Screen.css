@@ -1,0 +1,21 @@
+.input {
+    height: 75px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: black;
+    color: rgb(244, 60, 49);
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid black;
+    border: 3.5px solid rgb(244, 60, 49);
+
+}
+
+
+.number-color {
+    color: rgb(255, 184, 28);
+}

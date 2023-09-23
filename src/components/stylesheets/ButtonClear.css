@@ -1,0 +1,20 @@
+.button-clear {
+    height: 67px;
+    font-weight: 1.6em;
+    /* unidad em: 1.6 veces el tamaño de la letra de su contenedor  */
+    display: flex;
+    flex: 1;
+    /* flex llena todo el espacio */
+    background-color: rgb(255, 184, 28);
+    margin-top: 7px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: black;
+    /* color de texto */
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 50px;
+    user-select: none;
+}
